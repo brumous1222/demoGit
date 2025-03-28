@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello World!
+=======
+Hello World!
+
+Hello, Welcome home!
+>>>>>>> 7fec58ed4afe629258d468ecdd3e027bb6914fac
